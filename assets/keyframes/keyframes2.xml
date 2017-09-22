@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<keyframes>
+	<keyframe id="1">
+		<time>0</time>
+		<xLocation>-12</xLocation>
+		<yLocation>-4</yLocation>
+	</keyframe>
+	<keyframe id="2">
+		<time>6</time>
+		<xLocation>-12</xLocation>
+		<yLocation>0</yLocation>
+	</keyframe>
+	<keyframe id="3">
+		<time>12</time>
+		<xLocation>-10</xLocation>
+		<yLocation>0</yLocation>
+	</keyframe>
+	<keyframe id="4">
+		<time>18</time>
+		<xLocation>-10</xLocation>
+		<yLocation>4</yLocation>
+	</keyframe>
+	<keyframe id="5">
+		<time>24</time>
+		<xLocation>0</xLocation>
+		<yLocation>5</yLocation>
+	</keyframe>
+	<keyframe id="6">
+		<time>30</time>
+		<xLocation>-10</xLocation>
+		<yLocation>13</yLocation>
+	</keyframe>
+	<keyframe id="7">
+		<time>36</time>
+		<xLocation>8</xLocation>
+		<yLocation>13</yLocation>
+	</keyframe>
+	<keyframe id="8">
+		<time>42</time>
+		<xLocation>13</xLocation>
+		<yLocation>14</yLocation>
+	</keyframe>
+	<keyframe id="9">
+		<time>48</time>
+		<xLocation>16</xLocation>
+		<yLocation>14</yLocation>
+	</keyframe>
+	<keyframe id="10">
+		<time>54</time>
+		<xLocation>16</xLocation>
+		<yLocation>10</yLocation>
+	</keyframe>
+	<keyframe id="11">
+		<time>60</time>
+		<xLocation>20</xLocation>
+		<yLocation>0</yLocation>
+	</keyframe>
+	<keyframe id="12">
+		<time>66</time>
+		<xLocation>10</xLocation>
+		<yLocation>-6</yLocation>
+	</keyframe>
+	<keyframe id="13">
+		<time>72</time>
+		<xLocation>2</xLocation>
+		<yLocation>-6</yLocation>
+	</keyframe>
+	<keyframe id="14">
+		<time>78</time>
+		<xLocation>-5</xLocation>
+		<yLocation>-10</yLocation>
+	</keyframe>
+	<keyframe id="15">
+		<time>99</time>
+		<xLocation>-10</xLocation>
+		<yLocation>12</yLocation>
+	</keyframe>
+	<keyframe id="15">
+		<time>99</time>
+		<xLocation>-12</xLocation>
+		<yLocation>-4</yLocation>
+	</keyframe>
+</keyframes>
